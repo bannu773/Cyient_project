@@ -1,0 +1,23 @@
+
+  // console.log(available_hours);
+  // console.log(Math.round(billed_hours));
+  // console.log(selectedOptions);
+  // console.log(aeroRailValue);
+  // console.log(customerGroupValue);
+  // console.log(selectedStage, percentage);
+
+  // console.log(selected_O);
+  // console.log(selectedMonth);
+  // console.log(hoursPerDay[selected_O]);
+  // console.log(probadjrev);
+  // console.log(percentage, BillrateDocCur, String(Math.round(billed_hours)));
+  // console.log(pipeline_revenue);
+  //   const decemberOnsiteDays = workingDays[selectedMonth].offshore;
+  // console.log(decemberOnsiteDays);
+
+  // console.log(headcount);
+  // console.log(hoursPerDay[selected_O] *
+  //   workingDays[selectedMonth]?.[selected_O] *
+  //   headcount *
+  //   utilization);
+  // console.log(utilization);
